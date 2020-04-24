@@ -2,4 +2,4 @@
 
 ##Gio's Branch
 
-![Project Charter](image2.png)
+![Project Charter](image2.PNG)
